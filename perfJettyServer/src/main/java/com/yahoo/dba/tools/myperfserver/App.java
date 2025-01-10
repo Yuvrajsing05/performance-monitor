@@ -1,8 +1,3 @@
-/*
- *  Copyright 2015, Yahoo Inc.
- *  Copyrights licensed under the Apache License.
- *  See the accompanying LICENSE file for terms.
- */
 package com.yahoo.dba.tools.myperfserver;
 
 import java.io.File;
